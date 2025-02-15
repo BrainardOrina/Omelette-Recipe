@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Outfit-VariableFont';
-    src: url('Outfit-VariableFont_wght.ttf')
+    src: url('/Recipe/Outfit-VariableFont_wght.ttf')
     format('truetype');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'YoungSerif-Regular';
-    src: url('YoungSerif-Regular.ttf')
+    src: url('/Recipe/YoungSerif-Regular.ttf')
     format('truetype');
     font-display: swap;
 }
